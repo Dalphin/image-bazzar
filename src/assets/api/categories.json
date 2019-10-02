@@ -1,0 +1,25 @@
+{
+    "message" : "success",
+    "data" : [
+        {
+            "id" : 1,
+            "name" : "Festival",
+            "url" : "/assets/images/category-1.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Drinks & Food",
+            "url" : "/assets/images/category-2.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "Nature",
+            "url" : "/assets/images/category-3.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "Fun",
+            "url" : "/assets/images/category-4.jpg"
+        }
+    ]
+}

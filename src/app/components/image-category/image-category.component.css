@@ -1,0 +1,9 @@
+.gal-box {
+    background: #eaeaea;
+}
+.gal-box .gall-info {
+    background-color: #303030;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}

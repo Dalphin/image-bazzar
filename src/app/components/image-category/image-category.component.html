@@ -1,0 +1,15 @@
+<h4>Drinks & Food</h4>
+<div class="error-danger">{{errorMessage}}</div>
+<div class="row filterable-content">
+  <div class="col-sm-6 col-xl-3 filter-item all web illustrator" *ngFor="let image of imageCategory">
+    <div class="loader" *ngIf="imageApiService.loader"></div>
+    <div class="gal-box">
+        <a [routerLink]="['/image-details', image.id]" class="image-popup" title="Screenshot-1">
+            <img src={{image.url}} class="img-fluid" alt="work-thumbnail">
+        </a>
+        <div class="gall-info">
+            <div class="font-16 mt-0" (click)="getContactDetails()">View Contact</div>
+        </div> <!-- gallery info -->
+    </div> <!-- end gal-box -->
+  </div>
+</div>

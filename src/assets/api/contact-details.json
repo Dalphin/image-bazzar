@@ -1,0 +1,11 @@
+{
+    "message" : "success",
+    "data" : [
+        {
+            "company" : "Cognizant Technology Solutions",
+            "address" : "Elcot SEZ",
+            "city" : "Sholinganallur",
+            "landMark" : "Near Toll Gate (Perumpakkam Road)"
+        }
+    ]
+}
