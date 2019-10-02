@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
 ## Install Dependencies
-To start the project, first install the dependencies by using "npm install, then start the project with "npm start" or "ng serve"
+To start the project, first install all the dependencies by Run `npm install`, once all the dependencies are installed, then Run `npm start` or `ng serve`
 
 ## Development server
 
